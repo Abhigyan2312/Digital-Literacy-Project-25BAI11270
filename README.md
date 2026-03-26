@@ -2,116 +2,120 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- Name: Abhigyan Tiwari
-- Reg No: 25BAI11270
-- Branch: CSE (AI & ML)
-- Course Code: CSE0001
-- University: VIT Bhopal University
+- **Name:** Abhigyan Tiwari  
+- **Reg No:** 25BAI11270  
+- **Branch:** CSE (AI & ML)  
+- **Course Code:** CSE0001  
+- **University:** VIT Bhopal University  
 
 ---
 
 ## 📌 Project Overview
-- This project is part of the Digital Literacy course.
-- Role: Student Digital Ambassador
-- Focus:
-  - Digital awareness
-  - Professional online presence
-  - Safe internet usage
-  - Communication skills
+- This project is part of the **Digital Literacy course**.
+- Role: **Student Digital Ambassador**
+- Objective:
+  - Improve digital awareness
+  - Build professional online presence
+  - Practice safe internet usage
+  - Develop communication skills
 
 ---
 
 ## 📂 Repository Structure
-- README.md
-- report/
+- `README.md`
+- `report/`
   - Project_Report.pdf
-- task-1-presentation/
+- `task-1-presentation/`
   - infographic.png
-- task-2-portfolio/
-  - profile screenshots
-- task-3-platforms/
-  - coding screenshot
-  - Google Form + responses
-- task-4-email-etiquette/
-  - emails
-  - checklist
-- task-5-cybercrime/
-  - case study
-  - prevention checklist
+- `task-2-portfolio/`
+  - GitHub, LinkedIn, Kaggle screenshots
+- `task-3-platforms/`
+  - HackerRank problem screenshot
+  - Google Form + response sheet
+- `task-4-email-etiquette/`
+  - Emails
+  - Social media checklist
+- `task-5-cybercrime/`
+  - Case study
+  - Prevention checklist
 
 ---
 
 ## ✅ Task Summary
 
-### 📊 Task 1: Infographic
-- Tool used: :contentReference[oaicite:0]{index=0}
-- Topics covered:
-  - Digital literacy
-  - Useful tools
-  - Internet safety
+### 📊 Task 1: Digital Literacy Infographic
+- Tool Used: Canva  
+- Includes:
+  - Meaning of Digital Literacy  
+  - Useful tools for students  
+  - Safe internet practices  
 
 ---
 
-### 🌐 Task 2: Portfolio
-- Platforms used:
-  - :contentReference[oaicite:1]{index=1}
-  - :contentReference[oaicite:2]{index=2}
-  - :contentReference[oaicite:3]{index=3}
-- Purpose:
-  - Build professional profile
-  - Showcase projects
+### 🌐 Task 2: Digital Portfolio
+- Platforms Used:
+  - GitHub → Project hosting & version control  
+  - LinkedIn → Professional networking  
+  - Kaggle → Data science & ML practice  
 
 ---
 
-### 💻 Task 3: Platforms
-- Coding practice: :contentReference[oaicite:4]{index=4}
-- Quiz creation: :contentReference[oaicite:5]{index=5}
+### 💻 Task 3: Platforms Exploration
+- Coding Platform:
+  - HackerRank → Problem-solving & coding practice  
+- Collaboration Tool:
+  - Google Forms → Quiz creation  
+  - Google Sheets → Response analysis  
 
 ---
 
 ### 📧 Task 4: Email Etiquette
-- Wrote:
-  - Assignment extension email
-  - Internship inquiry email
 - Created:
-  - Social media checklist
+  - Assignment extension email  
+  - Internship inquiry email  
+- Developed:
+  - Social media Do’s & Don’ts checklist  
 
 ---
 
-### 🔐 Task 5: Cybercrime
-- Topic: UPI Fraud
-- Included:
-  - Case study
-  - Prevention tips
+### 🔐 Task 5: Cybercrime Awareness
+- Topic: UPI / Online Payment Fraud  
+- Work Included:
+  - Case study  
+  - Prevention checklist  
 - Reporting:
-  - :contentReference[oaicite:6]{index=6}
-  - Helpline: 1930
+  - National Cyber Crime Portal  
+  - Helpline: 1930  
+
+---
+
+## 🛠️ Platforms & Tools Used
+- Canva (Infographic Design)
+- GitHub (Project Hosting)
+- LinkedIn (Professional Networking)
+- Kaggle (Machine Learning Practice)
+- HackerRank (Coding Practice)
+- Google Forms (Quiz Creation)
+- Google Sheets (Data Analysis)
 
 ---
 
 ## 🎯 Key Learnings
-- Digital awareness
-- Professional communication
-- Coding practice
-- Online safety
-
----
-
-## 🔗 Tools Used
-- Canva
-- GitHub
-- LinkedIn
-- Kaggle
-- HackerRank
-- Google Forms
+- Developed digital literacy and awareness  
+- Built a professional online presence  
+- Improved coding and problem-solving skills  
+- Learned professional email writing  
+- Understood cybercrime and online safety  
 
 ---
 
 ## ⭐ Conclusion
-- Improved technical and communication skills
-- Built professional digital presence
-- Learned safe and responsible internet usage
+- This project enhanced my technical, communication, and analytical skills  
+- Helped me understand responsible digital behavior  
+- Prepared me for future opportunities in **AI & Machine Learning**
 
-## ⭐ Final Note
+---
 
-This project helped me develop technical, communication, and digital awareness skills, which will support my journey in Artificial Intelligence and Machine Learning.
+## 📎 Submission
+- Submitted via VITyarthi Portal  
+- GitHub Repository is part of my digital portfolio  
