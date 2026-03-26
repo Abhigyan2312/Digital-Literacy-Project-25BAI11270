@@ -1,10 +1,10 @@
 ## ✅ “Stay Safe Online” Checklist (For College Students in India)
 
-- Use strong and unique passwords 🔐
-  Create passwords with a mix of letters, numbers, and symbols. Avoid using the same password across multiple accounts.
+- Use strong and unique passwords 🔐:
+     - Create passwords with a mix of letters, numbers, and symbols. Avoid using the same password across multiple accounts.
 
-- Enable Two-Factor Authentication (2FA) 📱
-  Always turn on 2FA for email, social media, and banking apps to add an extra layer of security.
+- Enable Two-Factor Authentication (2FA) 📱:
+     - Always turn on 2FA for email, social media, and banking apps to add an extra layer of security.
 
 - Never share OTPs or passwords 🚫
   No legitimate organization will ever ask for your OTP, UPI PIN, or passwords—never share them with anyone.
