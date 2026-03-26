@@ -1,6 +1,6 @@
-## 💻 Task 3: Explore Coding & Collaboration Platforms
+## Task 3: Explore Coding & Collaboration Platforms
 
-### 🧠 Coding Practice (HackerRank)
+### Coding Practice (HackerRank)
 - Created an account on HackerRank  
 - Completed a beginner-level coding problem  
 - Improved:
@@ -11,16 +11,16 @@
 
 ---
 
-### 📊 Google Workspace Collaboration
+### Google Workspace Collaboration
 
-#### 📝 Google Forms
+#### Google Forms
 - Created a "Digital Literacy Awareness Quiz"  
 - Included:
   - Multiple-choice questions  
   - Short-answer question  
 - Used for collecting responses  
 
-#### 📈 Google Sheets
+#### Google Sheets
 - Responses automatically recorded  
 - Used for:
   - Organizing data  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🎯 Key Learnings
+### Key Learnings
 - Coding platforms help improve programming skills  
 - Google tools enable easy collaboration and data collection  
 - Learned to create, share, and analyze online forms  
