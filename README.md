@@ -1,109 +1,116 @@
 ### Digital-Literacy-Project-25BAI11270
-## 📘 Digital Literacy Project
+# 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-Name: Abhigyan Tiwari
-Reg No: 25BAI11270
-Branch: CSE (AI & ML)
-Course Code: CSE0001
-University: VIT Bhopal University
+- Name: Abhigyan Tiwari
+- Reg No: 25BAI11270
+- Branch: CSE (AI & ML)
+- Course Code: CSE0001
+- University: VIT Bhopal University
+
+---
 
 ## 📌 Project Overview
+- This project is part of the Digital Literacy course.
+- Role: Student Digital Ambassador
+- Focus:
+  - Digital awareness
+  - Professional online presence
+  - Safe internet usage
+  - Communication skills
 
-This project is part of the Digital Literacy course, where I take on the role of a Student Digital Ambassador. The aim of this project is to develop essential digital skills required to navigate the online world safely, responsibly, and professionally.
-
-The project consists of five tasks covering topics like digital awareness, professional online presence, coding platforms, email etiquette, and cybercrime awareness. All work is organized in this repository along with a detailed report.
-
+---
 
 ## 📂 Repository Structure
+- README.md
+- report/
+  - Project_Report.pdf
+- task-1-presentation/
+  - infographic.png
+- task-2-portfolio/
+  - profile screenshots
+- task-3-platforms/
+  - coding screenshot
+  - Google Form + responses
+- task-4-email-etiquette/
+  - emails
+  - checklist
+- task-5-cybercrime/
+  - case study
+  - prevention checklist
 
+---
 
-digital-literacy-project/
-│
-├── README.md
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   └── profile-screenshots/
-│
-├── task-3-platforms/
-│   ├── coding-screenshot.png
-│   ├── google-form.png
-│   └── response-sheet.png
-│
-├── task-4-email-etiquette/
-│   ├── emails.pdf
-│   └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
-
-    
 ## ✅ Task Summary
 
-#  📊 Task 1: Digital Literacy Infographic
+### 📊 Task 1: Infographic
+- Tool used: :contentReference[oaicite:0]{index=0}
+- Topics covered:
+  - Digital literacy
+  - Useful tools
+  - Internet safety
 
-Created an infographic using Canva explaining:
+---
 
-Digital literacy concept
-Useful tools (Google Docs, Quizlet, Canva)
-Safe internet practices
+### 🌐 Task 2: Portfolio
+- Platforms used:
+  - :contentReference[oaicite:1]{index=1}
+  - :contentReference[oaicite:2]{index=2}
+  - :contentReference[oaicite:3]{index=3}
+- Purpose:
+  - Build professional profile
+  - Showcase projects
 
-# 🌐 Task 2: Digital Portfolio
+---
 
-Created profiles on:
+### 💻 Task 3: Platforms
+- Coding practice: :contentReference[oaicite:4]{index=4}
+- Quiz creation: :contentReference[oaicite:5]{index=5}
 
-GitHub – Project hosting & version control
-LinkedIn – Professional networking
-Kaggle – Data science & ML practice
+---
 
-# 💻 Task 3: Platforms Exploration
+### 📧 Task 4: Email Etiquette
+- Wrote:
+  - Assignment extension email
+  - Internship inquiry email
+- Created:
+  - Social media checklist
 
-Solved a coding problem on HackerRank
-Created a Digital Literacy Quiz using Google Forms
+---
 
-# 📧 Task 4: Email Etiquette
+### 🔐 Task 5: Cybercrime
+- Topic: UPI Fraud
+- Included:
+  - Case study
+  - Prevention tips
+- Reporting:
+  - :contentReference[oaicite:6]{index=6}
+  - Helpline: 1930
 
-Wrote professional emails:
-Assignment extension request
-Internship inquiry
-Created a Social Media Do’s & Don’ts checklist
+---
 
-# 🔐 Task 5: Cybercrime Awareness
-
-1.Case study on UPI/Online Payment Fraud
-2.Created a prevention checklist including:
-    i.Safe payment practices
-   ii.Awareness tips
-  iii.Reporting via
-         National Cyber Crime Portal
-         Helpline: 1930
-         
 ## 🎯 Key Learnings
+- Digital awareness
+- Professional communication
+- Coding practice
+- Online safety
 
-1.Importance of digital literacy in academics and career
-2.Building a professional online identity
-3.Improving coding and problem-solving skills
-4.Writing professional emails
-5.Understanding cybercrime and online safety
+---
 
-## 🔗 Tools & Platforms Used
+## 🔗 Tools Used
+- Canva
+- GitHub
+- LinkedIn
+- Kaggle
+- HackerRank
+- Google Forms
 
-Canva
-GitHub
-LinkedIn
-Kaggle
-HackerRank
-Google Forms
+---
 
-## 📎Submission
-
-This repository is submitted as part of the Digital Literacy Project (CSE0001) through the VITyarthi portal.
+## ⭐ Conclusion
+- Improved technical and communication skills
+- Built professional digital presence
+- Learned safe and responsible internet usage
 
 ## ⭐ Final Note
 
