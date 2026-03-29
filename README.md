@@ -54,9 +54,9 @@
 
 ### 🌐 Task 2: Digital Portfolio
 - Platforms Used:
-  - GitHub → Project hosting & version control  
-  - LinkedIn → Professional networking  
-  - Kaggle → Data science & ML practice  
+  - GitHub → Project hosting & version control(https://github.com/Abhigyan2312)
+  - LinkedIn → Professional networking(www.linkedin.com/in/abhigyan-tiwari-264063377)
+  - Kaggle → Data science & ML practice(https://www.kaggle.com/abhigyantiwari2312) 
 
 ---
 
